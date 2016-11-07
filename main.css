@@ -1,0 +1,27 @@
+body {
+    background-image: url(tumblr_static_tumblr_static__640.jpg);
+    background-size: cover;
+    opacity: 0.8;
+}
+div {
+    position: relative;
+    width: 260px;
+    height: 100px;
+    margin: 100px;
+    margin-left: 300px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    padding-top: 60px;
+    text-align: center;
+    border: 4px dotted #f8f8f8;
+    background-color: white;
+    
+    
+}
+
+.caja1 {
+    margin-left: 700px;
+}
+a:hover{
+    padding-left: 50px;
+}
