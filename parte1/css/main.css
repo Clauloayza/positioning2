@@ -1,0 +1,20 @@
+.padre {
+    background-color: #f44545;
+    height: 400px;
+    width: 400px;
+    position: static;
+}
+.caja {
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    }
+.caja1 {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
